@@ -1,0 +1,66 @@
+/** ADD YOUR AWESOME CODES HERE **/
+
+/* Jeshish Edits ------------------------------*/
+.navbar-dark .navbar-brand {
+    color: rgb(255, 255, 255);
+}
+.img-fluid-logo{
+    height: 50px;
+    width: 50px;
+}
+
+.navbar .container a{
+    text-transform: uppercase;
+    font-style: Arial;
+    padding-left: 2%;
+    letter-spacing: 1px;
+}
+
+.navbar-brand{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.message-box p{
+    color: #999;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    padding-top: 30px;
+}
+
+/* .social-icon img{
+    height: 30px;
+    width: 35px;
+} */
+ .social-icon ul{
+    position: absolute;
+    display: flex;
+    justify-content:space-around;
+    margin: 0;
+    padding: 0;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+ }
+ .social-icon ul li{
+    list-style: none;
+    border: none;
+    position: relative;
+    line-height: 50px;
+    margin-right: 1.5rem !important;
+ }
+
+ body.demos .section {
+    background: url(images/country-quilt-dark.png) top center #f2f3f5;
+}
+ 
+#JMabout{
+    margin-top: 30px;
+}
+
+/* .social-icon ul li .fb{
+    position: relative;
+    justify-content: space-around;
+} */
+
+/* Jeshish Edits ----------------------------------- */
