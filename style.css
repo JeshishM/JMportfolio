@@ -481,17 +481,7 @@ xclip
     padding-bottom: 10px;
     background-color: #333333;
 }
-#clouds{
-	margin-top: -5%;
-	position: relative;
-	z-index: 1;
-}
-#clouds path {
-    fill: #ffffff;
-    bottom: -10px;
-    overflow: hidden;
-    stroke: #ffffff;
-}
+
 
 .section {
     display: block;
